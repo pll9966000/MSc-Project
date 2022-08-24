@@ -13,7 +13,7 @@ This repositorie consists of three parts, the source code folder, the data folde
 
 5. model design.jpynb: This section is the code to build the model, comparing four models, Decision Tree, KNN, Logistic Regression and Random Forest, to select the best prediction model.
 
-//data folder//.link: 
+//data folder//.link: https://drive.google.com/drive/folders/164J_cZVxdyCxg4gZFqzc6mlBNVhNBaqO
 
 1. ADIMISSION.csv: Records information from the patient census.
 
