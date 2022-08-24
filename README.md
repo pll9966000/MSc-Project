@@ -1,5 +1,5 @@
 # MSc-Project
-This repositorie consists of three parts, the code folder, the data folder and a README.txt.
+This repositorie consists of three parts, the source code folder, the data folder and a README.txt.
 
 //code folder//.
 
